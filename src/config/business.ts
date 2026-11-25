@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'leasemorrow',
   name: 'LeaseMorrow',
-  domain: 'leasemorrow.top',
-  email: 'adebola@leasemorrow.top',
+  domain: 'leasemorrow.space',
+  email: 'adebola@leasemorrow.space',
   tagline: 'Understand commercial lease portfolios.',
   industries: ['Real Estate', 'Accounting', 'Enterprise Software'],
   description:

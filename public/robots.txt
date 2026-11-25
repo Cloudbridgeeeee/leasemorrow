@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://leasemorrow.top/sitemap.xml
+Sitemap: https://leasemorrow.space/sitemap.xml

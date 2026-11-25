@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for LeaseMorrow.
 - Industry: Real Estate, Accounting, Enterprise Software
 - Founder: Adebola Ojo (Founder & CEO)
 - Co-founder: Chinonso Nwosu (Co-founder & CTO)
-- Contact: adebola@leasemorrow.top
+- Contact: adebola@leasemorrow.space
 - Business model: Subscriptions per managed property
 
 ## Stack

@@ -1,0 +1,16 @@
+{
+  "name": "LeaseMorrow",
+  "short_name": "LeaseMorrow",
+  "description": "AI lease administration software that extracts rental terms, payment schedules and renewal obligations from commercial property documents.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#f3f1ec",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
